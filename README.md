@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository is archived, as the code has moved to the [multicluster-observability-operator](https://github.com/stolostron/multicluster-observability-operator/tree/main/collectors/metrics) repo.
+
 Metrics Collector
 -----------
 Metrics Collector implements a client to "scrape" or collect data from OpenShift Promethus
